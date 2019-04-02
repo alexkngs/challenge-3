@@ -1,0 +1,100 @@
+body{
+	font-size: 200px;
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 400;
+	margin: auto;
+	text-align: center;
+}
+
+h1{
+	font-size: 40px;
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 400;
+	margin: auto;
+	text-align: center;
+}
+
+p{
+	font-size: 20px;
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 400;
+	margin: auto;
+	text-align: center;
+}
+
+body h1, p{
+	color: white;
+}
+
+.hdr{
+height:150px;
+background:#353553;
+
+}
+
+.main{
+
+}
+
+.gifs{
+	height:650px;
+	width: 50%;
+	float:right;
+	background:#2F2E4D;
+}
+
+.bored {
+height:650px;
+	width: 50%;
+	float:left;
+	background:#2F2E4D;
+
+}
+
+.cntr-right{
+	height:450px;
+	width:450px;
+	border:5px solid white;
+	margin-left: auto;
+	margin-right: auto; 
+}
+
+.cntr-left{
+	height:450px;
+	width:450px;
+	border:5px solid white;
+	margin-left: auto;
+	margin-right: auto;  
+}
+
+.btn{
+	background-color: white;
+  border: none;
+  color: #2F2E4D;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+
+#weather > .forecastMoment {
+	width: 300px;
+	height:300px;
+		padding-top: 4px;
+	padding-bottom: 4px;
+	text-align: center;
+	background-color: #DFDFFF;
+	border-radius: 6px;
+	color: #353553;
+	font-size: 20px;
+	margin-left: auto;
+	margin-right: auto; 
+}
+
+.temp {
+	font-weight: 400;
+	color: #353553 ;
+	font-size: 20px;
+}
